@@ -10,7 +10,7 @@ void main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         IO.println("i = " + i);
     }
-    IO.println("Probando la suma = " + sumar(2, 3));
+    IO.println("aaa la suma = " + sumar(2, 3));
 }
 public static int sumar(int a, int b) {
     return a + b;
